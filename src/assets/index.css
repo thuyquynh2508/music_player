@@ -1,0 +1,7 @@
+@import "./components/sidebar.css";
+
+@import "./components/sidebarbutton.css";
+
+@import "./screens/home.css";
+
+@import "./screens/login.css";

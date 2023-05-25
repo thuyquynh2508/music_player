@@ -1,6 +1,5 @@
 import React from 'react'
 import {Link, useLocation} from 'react-router-dom';
-import "../assets/components/sidebarbutton.css"
 import { IconContext } from 'react-icons';
 
 export default function SidebarButton(props) {
