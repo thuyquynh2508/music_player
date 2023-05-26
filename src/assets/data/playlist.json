@@ -1,0 +1,470 @@
+{
+    "href": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii/playlists?offset=0&limit=10",
+    "limit": 10,
+    "next": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii/playlists?offset=10&limit=10",
+    "offset": 0,
+    "previous": null,
+    "total": 12,
+    "items": [
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5BBRlmghha8cqSaZzYzv5L"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5BBRlmghha8cqSaZzYzv5L",
+        "id": "5BBRlmghha8cqSaZzYzv5L",
+        "images": [
+          {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273633a2d775747bccfbcb17a45ab67616d0000b2737a99659e2d0345eabe8c4fbbab67616d0000b2737fac0feaadbab30fa7903ecfab67616d0000b273897f73256b9128a9d70eaf66",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273633a2d775747bccfbcb17a45ab67616d0000b2737a99659e2d0345eabe8c4fbbab67616d0000b2737fac0feaadbab30fa7903ecfab67616d0000b273897f73256b9128a9d70eaf66",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273633a2d775747bccfbcb17a45ab67616d0000b2737a99659e2d0345eabe8c4fbbab67616d0000b2737fac0feaadbab30fa7903ecfab67616d0000b273897f73256b9128a9d70eaf66",
+            "height": 60,
+            "width": 60
+          }
+        ],
+        "name": "English Songs",
+        "owner": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31oztocit6n6b3ns7yfm7jwwmvii"
+          },
+          "href": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii",
+          "id": "31oztocit6n6b3ns7yfm7jwwmvii",
+          "type": "user",
+          "uri": "spotify:user:31oztocit6n6b3ns7yfm7jwwmvii",
+          "display_name": "Thúy Quỳnh"
+        },
+        "public": true,
+        "snapshot_id": "MTUsMzM0YjZhNDRlN2VjZTM2ZThlMDgyZTg0ZjRmYTU1YTJmYTM3NzNjNQ==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5BBRlmghha8cqSaZzYzv5L/tracks",
+          "total": 7
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5BBRlmghha8cqSaZzYzv5L",
+        "primary_color": null
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/1rx9erFvX6DAppIjHBTpz4"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1rx9erFvX6DAppIjHBTpz4",
+        "id": "1rx9erFvX6DAppIjHBTpz4",
+        "images": [
+          {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2733301902c58a4df0472a19c7eab67616d0000b273947c6c2c4691e63545d015e3ab67616d0000b273e7cd0b770cb0da24f3b8935bab67616d0000b273f0ce05b7f13e0ce2b74396cc",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2733301902c58a4df0472a19c7eab67616d0000b273947c6c2c4691e63545d015e3ab67616d0000b273e7cd0b770cb0da24f3b8935bab67616d0000b273f0ce05b7f13e0ce2b74396cc",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2733301902c58a4df0472a19c7eab67616d0000b273947c6c2c4691e63545d015e3ab67616d0000b273e7cd0b770cb0da24f3b8935bab67616d0000b273f0ce05b7f13e0ce2b74396cc",
+            "height": 60,
+            "width": 60
+          }
+        ],
+        "name": "AMEE",
+        "owner": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31oztocit6n6b3ns7yfm7jwwmvii"
+          },
+          "href": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii",
+          "id": "31oztocit6n6b3ns7yfm7jwwmvii",
+          "type": "user",
+          "uri": "spotify:user:31oztocit6n6b3ns7yfm7jwwmvii",
+          "display_name": "Thúy Quỳnh"
+        },
+        "public": true,
+        "snapshot_id": "MTIsNDJjMjg4MzhlNzM4MDYxNjRlYTE2ZTZkZmE1MWEyMDljZjA1M2U2Zg==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/1rx9erFvX6DAppIjHBTpz4/tracks",
+          "total": 8
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1rx9erFvX6DAppIjHBTpz4",
+        "primary_color": null
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/68Gjn5LkXoLx6ljsUMnGg4"
+        },
+        "href": "https://api.spotify.com/v1/playlists/68Gjn5LkXoLx6ljsUMnGg4",
+        "id": "68Gjn5LkXoLx6ljsUMnGg4",
+        "images": [
+          {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27302f263e638e5b920e0994434ab67616d0000b273b932fc5b118c8ff70b271767ab67616d0000b273cd96c10aeee9a07bf7f3c457ab67616d0000b273d3a534a0b4bfe05c1e454f02",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27302f263e638e5b920e0994434ab67616d0000b273b932fc5b118c8ff70b271767ab67616d0000b273cd96c10aeee9a07bf7f3c457ab67616d0000b273d3a534a0b4bfe05c1e454f02",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27302f263e638e5b920e0994434ab67616d0000b273b932fc5b118c8ff70b271767ab67616d0000b273cd96c10aeee9a07bf7f3c457ab67616d0000b273d3a534a0b4bfe05c1e454f02",
+            "height": 60,
+            "width": 60
+          }
+        ],
+        "name": "Hope",
+        "owner": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31oztocit6n6b3ns7yfm7jwwmvii"
+          },
+          "href": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii",
+          "id": "31oztocit6n6b3ns7yfm7jwwmvii",
+          "type": "user",
+          "uri": "spotify:user:31oztocit6n6b3ns7yfm7jwwmvii",
+          "display_name": "Thúy Quỳnh"
+        },
+        "public": true,
+        "snapshot_id": "OCw2MzU5OTU0NDdjNWE5YjQ2NmIwZTc0MTVlMTUyNDRiOWQ1MzhiNzU1",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/68Gjn5LkXoLx6ljsUMnGg4/tracks",
+          "total": 6
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:68Gjn5LkXoLx6ljsUMnGg4",
+        "primary_color": null
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2eYwbH9K1sGo83aKfpKibH"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2eYwbH9K1sGo83aKfpKibH",
+        "id": "2eYwbH9K1sGo83aKfpKibH",
+        "images": [
+          {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27358c3d3ff0f1c191e17bd1af8ab67616d0000b27386b31cdfeb2a7f2b9cd3b5c5ab67616d0000b273bf7d3058bc206639f626da8bab67616d0000b273c3aa23f929799e592488b34d",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27358c3d3ff0f1c191e17bd1af8ab67616d0000b27386b31cdfeb2a7f2b9cd3b5c5ab67616d0000b273bf7d3058bc206639f626da8bab67616d0000b273c3aa23f929799e592488b34d",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27358c3d3ff0f1c191e17bd1af8ab67616d0000b27386b31cdfeb2a7f2b9cd3b5c5ab67616d0000b273bf7d3058bc206639f626da8bab67616d0000b273c3aa23f929799e592488b34d",
+            "height": 60,
+            "width": 60
+          }
+        ],
+        "name": "Recently",
+        "owner": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31oztocit6n6b3ns7yfm7jwwmvii"
+          },
+          "href": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii",
+          "id": "31oztocit6n6b3ns7yfm7jwwmvii",
+          "type": "user",
+          "uri": "spotify:user:31oztocit6n6b3ns7yfm7jwwmvii",
+          "display_name": "Thúy Quỳnh"
+        },
+        "public": true,
+        "snapshot_id": "OCw1MGRkOTJkNDQ2YzY4M2FkNDVkZmE2YjljNjZlZTEwYjkyYWZjNGM5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2eYwbH9K1sGo83aKfpKibH/tracks",
+          "total": 4
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2eYwbH9K1sGo83aKfpKibH",
+        "primary_color": null
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/0ZUaEKDqVs0Y1Hz84y1UVk"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0ZUaEKDqVs0Y1Hz84y1UVk",
+        "id": "0ZUaEKDqVs0Y1Hz84y1UVk",
+        "images": [
+          {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27336553f37510f4d4f3ccde8bfab67616d0000b273922eac0b40ae0199b161ab02ab67616d0000b27392609e21602d3fc7191446a5ab67616d0000b273d00c33fac5712e26dbef6199",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27336553f37510f4d4f3ccde8bfab67616d0000b273922eac0b40ae0199b161ab02ab67616d0000b27392609e21602d3fc7191446a5ab67616d0000b273d00c33fac5712e26dbef6199",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27336553f37510f4d4f3ccde8bfab67616d0000b273922eac0b40ae0199b161ab02ab67616d0000b27392609e21602d3fc7191446a5ab67616d0000b273d00c33fac5712e26dbef6199",
+            "height": 60,
+            "width": 60
+          }
+        ],
+        "name": "Chill",
+        "owner": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31oztocit6n6b3ns7yfm7jwwmvii"
+          },
+          "href": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii",
+          "id": "31oztocit6n6b3ns7yfm7jwwmvii",
+          "type": "user",
+          "uri": "spotify:user:31oztocit6n6b3ns7yfm7jwwmvii",
+          "display_name": "Thúy Quỳnh"
+        },
+        "public": true,
+        "snapshot_id": "NixjZjMxY2E2MGRkNWJkYzgzNjI3MjZkYzZhMTNjMzM5YzZjOWMxMTQ0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/0ZUaEKDqVs0Y1Hz84y1UVk/tracks",
+          "total": 4
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0ZUaEKDqVs0Y1Hz84y1UVk",
+        "primary_color": null
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/0VT0shtFVjQD9bTLlHK9UY"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0VT0shtFVjQD9bTLlHK9UY",
+        "id": "0VT0shtFVjQD9bTLlHK9UY",
+        "images": [
+          {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2736040fd1ba7dcf5d0bc5a3232ab6765630000ba8a458c7633c518e1f8b7ebcd7bab6765630000ba8a596151a22f884061b3edeab6ab6765630000ba8a6335aba900efd839a46b187a",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2736040fd1ba7dcf5d0bc5a3232ab6765630000ba8a458c7633c518e1f8b7ebcd7bab6765630000ba8a596151a22f884061b3edeab6ab6765630000ba8a6335aba900efd839a46b187a",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2736040fd1ba7dcf5d0bc5a3232ab6765630000ba8a458c7633c518e1f8b7ebcd7bab6765630000ba8a596151a22f884061b3edeab6ab6765630000ba8a6335aba900efd839a46b187a",
+            "height": 60,
+            "width": 60
+          }
+        ],
+        "name": "Sleep time",
+        "owner": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31oztocit6n6b3ns7yfm7jwwmvii"
+          },
+          "href": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii",
+          "id": "31oztocit6n6b3ns7yfm7jwwmvii",
+          "type": "user",
+          "uri": "spotify:user:31oztocit6n6b3ns7yfm7jwwmvii",
+          "display_name": "Thúy Quỳnh"
+        },
+        "public": true,
+        "snapshot_id": "Nyw5NjZmZGMzNzVhZDQyNTAyNmZjZWEyOGE0ZDFiNWEwYWIxZGRkN2Q1",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/0VT0shtFVjQD9bTLlHK9UY/tracks",
+          "total": 5
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0VT0shtFVjQD9bTLlHK9UY",
+        "primary_color": null
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3uwLP4EywyARyUpiMt9oW1"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3uwLP4EywyARyUpiMt9oW1",
+        "id": "3uwLP4EywyARyUpiMt9oW1",
+        "images": [
+          {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273d6ec808748fa5b0c2d3a6618ab6765630000ba8a064f6824c2fc30917b84d7e9ab6765630000ba8a75911495fd0ef9d4270b63b1d3cf169776ce627980f605c03bb75b4170ecf895",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273d6ec808748fa5b0c2d3a6618ab6765630000ba8a064f6824c2fc30917b84d7e9ab6765630000ba8a75911495fd0ef9d4270b63b1d3cf169776ce627980f605c03bb75b4170ecf895",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273d6ec808748fa5b0c2d3a6618ab6765630000ba8a064f6824c2fc30917b84d7e9ab6765630000ba8a75911495fd0ef9d4270b63b1d3cf169776ce627980f605c03bb75b4170ecf895",
+            "height": 60,
+            "width": 60
+          }
+        ],
+        "name": "Focus",
+        "owner": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31oztocit6n6b3ns7yfm7jwwmvii"
+          },
+          "href": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii",
+          "id": "31oztocit6n6b3ns7yfm7jwwmvii",
+          "type": "user",
+          "uri": "spotify:user:31oztocit6n6b3ns7yfm7jwwmvii",
+          "display_name": "Thúy Quỳnh"
+        },
+        "public": true,
+        "snapshot_id": "OCw3Y2UyNzc3M2E3NWNiNTBiZGI1ZTE0MmFhOWI0OGI4ZGEzMzljZGM2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3uwLP4EywyARyUpiMt9oW1/tracks",
+          "total": 6
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3uwLP4EywyARyUpiMt9oW1",
+        "primary_color": null
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2TUkdQh2vUdrVsy6waJtYF"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2TUkdQh2vUdrVsy6waJtYF",
+        "id": "2TUkdQh2vUdrVsy6waJtYF",
+        "images": [
+          {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27343bcd12afafc476ca70fb428ab67616d0000b27362d22e8536c1bf5b3825f75dab67616d0000b2736b9a74061e7f23982000ebbcab67616d0000b273947c6c2c4691e63545d015e3",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27343bcd12afafc476ca70fb428ab67616d0000b27362d22e8536c1bf5b3825f75dab67616d0000b2736b9a74061e7f23982000ebbcab67616d0000b273947c6c2c4691e63545d015e3",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27343bcd12afafc476ca70fb428ab67616d0000b27362d22e8536c1bf5b3825f75dab67616d0000b2736b9a74061e7f23982000ebbcab67616d0000b273947c6c2c4691e63545d015e3",
+            "height": 60,
+            "width": 60
+          }
+        ],
+        "name": "Fun",
+        "owner": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31oztocit6n6b3ns7yfm7jwwmvii"
+          },
+          "href": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii",
+          "id": "31oztocit6n6b3ns7yfm7jwwmvii",
+          "type": "user",
+          "uri": "spotify:user:31oztocit6n6b3ns7yfm7jwwmvii",
+          "display_name": "Thúy Quỳnh"
+        },
+        "public": true,
+        "snapshot_id": "Nyw5OTU4NTliYjZhYWVjN2QzZWQxY2E0Y2YzNTM3NTFjYTJhNjE4ZDY1",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2TUkdQh2vUdrVsy6waJtYF/tracks",
+          "total": 5
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2TUkdQh2vUdrVsy6waJtYF",
+        "primary_color": null
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/4GycNuVv18lmKMNmoZMmHp"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4GycNuVv18lmKMNmoZMmHp",
+        "id": "4GycNuVv18lmKMNmoZMmHp",
+        "images": [
+          {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2731a8a0dfa8257bd6eb331cf4aab67616d0000b27380e99586a5542499a2f165b2ab67616d0000b273bae92fcd9d2fd20adda730abab67616d0000b273f53f1f1a3d46088d0d85727f",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2731a8a0dfa8257bd6eb331cf4aab67616d0000b27380e99586a5542499a2f165b2ab67616d0000b273bae92fcd9d2fd20adda730abab67616d0000b273f53f1f1a3d46088d0d85727f",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2731a8a0dfa8257bd6eb331cf4aab67616d0000b27380e99586a5542499a2f165b2ab67616d0000b273bae92fcd9d2fd20adda730abab67616d0000b273f53f1f1a3d46088d0d85727f",
+            "height": 60,
+            "width": 60
+          }
+        ],
+        "name": "Family (There are many songs about parents)",
+        "owner": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31oztocit6n6b3ns7yfm7jwwmvii"
+          },
+          "href": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii",
+          "id": "31oztocit6n6b3ns7yfm7jwwmvii",
+          "type": "user",
+          "uri": "spotify:user:31oztocit6n6b3ns7yfm7jwwmvii",
+          "display_name": "Thúy Quỳnh"
+        },
+        "public": true,
+        "snapshot_id": "OCxiMWEwODUzODVkNmExYzQ2ZmI5ZTcyMGQ3ZTI5N2MyMGJmMGU1NGMx",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/4GycNuVv18lmKMNmoZMmHp/tracks",
+          "total": 6
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4GycNuVv18lmKMNmoZMmHp",
+        "primary_color": null
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/4kjFl1D8ri73U6Zy9kINaz"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4kjFl1D8ri73U6Zy9kINaz",
+        "id": "4kjFl1D8ri73U6Zy9kINaz",
+        "images": [
+          {
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2732e0b6dec3ee3189f6e41139dab67616d0000b273d2d4309d7c9997a6e4cf2993ab67616d0000b273d4d91fe21b6e9c874850a80cab67616d0000b273eb881066c9abd0194d17ac40",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2732e0b6dec3ee3189f6e41139dab67616d0000b273d2d4309d7c9997a6e4cf2993ab67616d0000b273d4d91fe21b6e9c874850a80cab67616d0000b273eb881066c9abd0194d17ac40",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2732e0b6dec3ee3189f6e41139dab67616d0000b273d2d4309d7c9997a6e4cf2993ab67616d0000b273d4d91fe21b6e9c874850a80cab67616d0000b273eb881066c9abd0194d17ac40",
+            "height": 60,
+            "width": 60
+          }
+        ],
+        "name": "School ",
+        "owner": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31oztocit6n6b3ns7yfm7jwwmvii"
+          },
+          "href": "https://api.spotify.com/v1/users/31oztocit6n6b3ns7yfm7jwwmvii",
+          "id": "31oztocit6n6b3ns7yfm7jwwmvii",
+          "type": "user",
+          "uri": "spotify:user:31oztocit6n6b3ns7yfm7jwwmvii",
+          "display_name": "Thúy Quỳnh"
+        },
+        "public": true,
+        "snapshot_id": "MTAsYzAxNTk3YWI2NjRiNTk0ODM1YzI5MDA4YjNhMDAzYmNhNjBlMDU3Zg==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/4kjFl1D8ri73U6Zy9kINaz/tracks",
+          "total": 6
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4kjFl1D8ri73U6Zy9kINaz",
+        "primary_color": null
+      }
+    ]
+  }
