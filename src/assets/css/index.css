@@ -1,0 +1,28 @@
+@import "./components/sidebar/sidebar.css";
+
+@import "./components/sidebar/sidebarbutton.css";
+
+@import "./components/songCard/songCard.css";
+
+@import "./components/queue/queue.css";
+
+@import "./components/songCard/albumInfo.css";
+
+@import "./components/songCard/albumImage.css";
+
+@import "./components/audioPlayer/audioPlayer.css";
+
+@import "./components/audioPlayer/processCircle.css";
+
+@import "./components/audioPlayer/waveAnimation.css";
+
+@import "./components/audioPlayer/controls.css";
+
+@import "./screens/home.css";
+
+@import "./screens/login.css";
+
+@import "./screens/library.css";
+
+@import "./screens/player.css";
+

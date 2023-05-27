@@ -21,14 +21,8 @@ export default function Library() {
     }
   }
   useEffect(() => {
-    // fetchData();
-    // apiClient.get("me/playlists").then(function (
-    //   response
-    // ) {
-    //   setPlaylists(response.data.items);
-    //   console.log(response.data.items);
-    // });
-    setPlaylists(playlistsData.items);
+    fetchData();
+    // setPlaylists(playlistsData.items);
   }, []);
 
   const navigate = useNavigate();
@@ -50,7 +44,7 @@ export default function Library() {
             <p className="playlist-title">{playlist.name}</p>
             <p className="playlist-subtitle">{playlist.tracks.total} Songs</p>
             <div className="playlist-fade">
-              <IconContext.Provider value={{ size: "50px", color:"#E99D72"}}>
+              <IconContext.Provider value={{ size: "50px", color:"#bfdcf4"}}>
                 <AiFillPlayCircle />
               </IconContext.Provider>
             </div>
