@@ -18,6 +18,12 @@
 
 @import "./components/audioPlayer/controls.css";
 
+@import "./components/widgets/widgets.css";
+
+@import "./components/widgets/widgetCard.css";
+
+@import "./components/widgets/widgetEntry.css";
+
 @import "./screens/home.css";
 
 @import "./screens/login.css";
